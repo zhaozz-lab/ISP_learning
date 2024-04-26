@@ -19,6 +19,7 @@ https://github.com/Srameo/LED
 ## adobe 资料学习
 
 dng specific 比较系统的介绍了isp相关的参数
+https://helpx.adobe.com/cn/camera-raw/digital-negative.html
 
 
 ## HDR
